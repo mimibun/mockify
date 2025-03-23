@@ -1,0 +1,2 @@
+# mockify
+silly mockification script
